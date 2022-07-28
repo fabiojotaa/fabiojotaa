@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on my finding my first job as a Front-End or Fullstack Dev
+- 🔭 I’m currently working on my finding my first job as a Front-End Jr or Fullstack Dev Jr.
 - 🌱 I’m currently learning Fullstack Web Development at Digital House
-- 📫 How to reach me: fabiojota001@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/fabiojotaa">
